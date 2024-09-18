@@ -13,3 +13,4 @@ export const FriendsItem = ({ avatar, name, isOnline }) => {
     </div>
   );
 };
+//FINAL THHI
